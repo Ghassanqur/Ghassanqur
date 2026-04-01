@@ -7,7 +7,7 @@
 
 ###  About Me
 
-I'm Ghassan Qureshi, currently studying CS at DHA Suffa University. I spend most of my time working around cloud and DevOps. I like taking ideas and turning them into working systems whether that means setting up infrastructure, automating deployments, or figuring out why something broke at 2am. I try to keep things simple, reliable, and practical. Always learning new tools, testing things out, and improving how I build and deploy.
+I'm Ghassan Qureshi, I spend most of my time working around cloud and DevOps. I like taking ideas and turning them into working systems whether that means setting up infrastructure, automating deployments, or figuring out why something broke at 2am. I try to keep things simple, reliable, and practical. Always learning new tools, testing things out, and improving how I build and deploy.
 
 -  Working with Cloud  
 -  Automating infrastructure and workflows  
